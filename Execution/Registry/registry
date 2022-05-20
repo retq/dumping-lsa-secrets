@@ -1,0 +1,1 @@
+reg save HKLM\SYSTEM system & reg save HKLM\security security
